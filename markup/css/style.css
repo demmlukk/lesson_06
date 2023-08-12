@@ -1,0 +1,161 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+body {
+    color: #727272;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    max-width: 1110px;
+    width: 100%;
+}
+
+header {
+    background-color: #EEEFF1;
+}
+
+.menu {
+    padding-top: 79px;
+}
+
+.menu a {
+    margin-right: 42px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+}
+.menu a:hover {
+    color: #34547A;
+    transition: 0.3s;
+}
+
+.menu a span {
+    color: #34547A;
+}
+
+.text-wrap {
+    width: 50%;
+    margin: 0;
+    padding-top: 178px;
+}
+
+h1 {
+    color: #000;
+    font-size: 48px;
+    font-weight: 500;
+}
+
+.header-subtitle {
+    padding-top: 60px;
+}
+
+.btn {
+    font-size: 16px;
+    line-height: 20;
+    padding: 20px 40px;
+    text-transform: uppercase;
+    background-color: #34547A;
+    color: #fff;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: #19293c;
+    transition: 0.4s;
+}
+
+.about {
+    text-align: center;
+    max-width: 540px;
+}
+
+.about-title {
+    color: #000;
+    font-size: 32px;
+    font-weight: 500;
+    margin-top: 112px;
+}
+
+.about-subtitle {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    line-height: 164.1%;
+}
+
+.icon-item {
+    background-color: #34547A;
+}
+ 
+.icon-item ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.icon-item li {
+    display: inline-block;
+    margin: 0 22px;
+}
+
+.text {
+    display: inline-block;
+    color: #fff;
+    padding-left: 20px;
+}
+
+.icon-title {
+    font-size: 21px;
+}
+
+.description {
+    background-color: #EEEFF1;
+}
+
+.content {
+    text-align: center;
+    max-width: 540px;
+}
+
+.description-title {
+    font-size: 32px;
+    color: #000;
+    padding-top: 100px;
+}
+
+.description-subtitle {
+    margin-top: 50px;
+    margin-bottom: 71px;
+
+}
+
+.video {
+    margin: 0 auto;
+    width: 1110px;
+    height: 600px;
+    margin-bottom: 100px;
+} 
+
+footer {
+    background-color: #34547A;
+}
+
+.container h4 {
+    color: #fff;
+    font-size: 21px;
+    padding-top: 50px;
+    margin-bottom: 20px;
+}
+
+footer p {
+    color: #fff;
+    font-size: 13px;
+    padding-bottom: 50px;
+}
