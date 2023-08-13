@@ -19,6 +19,10 @@ header {
     background-color: #EEEFF1;
 }
 
+.hero-section {
+    background-color: #EEEFF1;
+}
+
 .menu {
     padding-top: 79px;
 }
@@ -159,4 +163,5 @@ footer p {
     color: #fff;
     font-size: 13px;
     padding-bottom: 50px;
+    
 }
